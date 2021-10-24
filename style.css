@@ -1,0 +1,11 @@
+body{
+
+background-color: aqua;
+}
+
+#camera{
+
+border: 2px ridge gray;
+height: 300px;
+width: 350px;
+}
